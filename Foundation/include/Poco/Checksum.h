@@ -19,7 +19,7 @@
 
 
 #include "Poco/Foundation.h"
-#include <zlib.h>
+#include "Poco/zlib.h"
 
 
 namespace Poco {
